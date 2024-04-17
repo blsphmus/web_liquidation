@@ -1,0 +1,74 @@
+body {
+    background-color: mintcream;
+    font-family: 'Roboto', sans-serif;
+    color: #1d7099;
+}
+
+.my_photo {
+    background: url(../image/my_photo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+.meme {
+    background: url(../image/meme.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.nav_bar {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.title_photo {
+    text-align: center;
+}
+
+.row {
+
+}
+.col-12 {
+
+}
+.col-6 {
+
+}
+.col-3 {
+
+}
+.col-3.nav_logo {
+
+}
+.col-9 {
+
+}
+.col-4 {
+
+}
+.col-8 {
+
+}
+
+.img_size {
+
+}
